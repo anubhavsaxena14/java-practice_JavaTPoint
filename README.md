@@ -6,6 +6,6 @@ This Keyword
 
 Java Inheritance 
   
-  -> IS-A (Single, Multiple, Hierarchical)
+       -> IS-A (Single, Multiple, Hierarchical)
 
-  -> HAS-A (Aggregation)
+       -> HAS-A (Aggregation)
