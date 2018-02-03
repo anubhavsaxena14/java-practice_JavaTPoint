@@ -2,6 +2,6 @@ If a class has multiple methods having same name but different in parameters, it
 
 There are two ways to overload the method in java:
 
-By changing number of arguments
+1. By changing number of arguments
 
 By changing the data type
