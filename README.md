@@ -6,4 +6,4 @@ This Keyword
 
 Java Inheritance 
   -> IS-A (Single, Multiple, Hierarchical)
-  -> 
+  -> HAS-A
