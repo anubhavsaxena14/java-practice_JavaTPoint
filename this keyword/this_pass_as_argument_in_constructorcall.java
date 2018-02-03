@@ -1,4 +1,4 @@
-/* We can pass the this keyword in the constructor also. 
+/* We are passing the this keyword in the constructor also. 
    It is useful if we have to use one object in multiple classes. 
 */
 
