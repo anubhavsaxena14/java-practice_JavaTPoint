@@ -1,4 +1,6 @@
-// Real usage of this() constructor call
+/* Real usage of this() constructor call 
+   this() constructor call should be used to reuse the constructor from the constructor.
+*/
 
 class Student{  
 int rollno;  
