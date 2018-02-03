@@ -14,4 +14,4 @@ This repository contains programs I have practiced on following topics :
 
      -> Method Overloading
      
-     -> HAS-A (Aggregation)
+     -> Method Overriding
