@@ -4,4 +4,4 @@ There are two ways to overload the method in java:
 
 1. By changing number of arguments
 
-By changing the data type
+2. By changing the data type
