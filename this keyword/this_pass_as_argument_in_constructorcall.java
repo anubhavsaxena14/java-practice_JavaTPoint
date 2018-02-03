@@ -1,3 +1,7 @@
+/* We can pass the this keyword in the constructor also. 
+   It is useful if we have to use one object in multiple classes. 
+*/
+
 class B{  
   A4 obj;  
   B(A4 obj){  
