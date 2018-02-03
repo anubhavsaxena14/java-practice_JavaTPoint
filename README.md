@@ -1,6 +1,6 @@
 # java-practice_JavaTPoint
 
-This repository contains programs on following topics :
+This repository contains programs I have practiced on following topics :
 
 1. This Keyword
 
