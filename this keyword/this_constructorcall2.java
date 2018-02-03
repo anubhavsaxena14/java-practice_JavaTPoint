@@ -1,3 +1,5 @@
+// Call to this() must be the first statement in constructor.
+
 class Student{  
 int rollno;  
 String name,course;  
@@ -21,3 +23,4 @@ s1.display();
 s2.display();  
 }}  
 
+// Compile Time Error: Call to this must be first statement in constructor
