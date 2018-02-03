@@ -4,7 +4,7 @@ This repository contains programs I have practiced on following topics :
 
 1. This Keyword
 
-Java Inheritance 
+2. Java Inheritance 
   
      -> IS-A (Single, Multiple, Hierarchical)
 
