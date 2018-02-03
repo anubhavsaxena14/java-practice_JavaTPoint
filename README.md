@@ -4,4 +4,6 @@ This repository contains programs on following topics :
 
 This Keyword
 
-Java Inheritance
+Java Inheritance 
+  -> IS-A (Single, Multiple, Hierarchical)
+  -> 
