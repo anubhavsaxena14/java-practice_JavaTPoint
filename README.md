@@ -23,3 +23,5 @@ This repository contains programs I have practiced on following topics :
 6. Super Keyword
 
 7. Abstract Class
+
+8. Interface
