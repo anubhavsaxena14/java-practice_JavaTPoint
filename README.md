@@ -20,6 +20,6 @@ This repository contains programs I have practiced on following topics :
 
 5. Final Keyword
 
-7. Abstract Class
+6. Abstract Class
 
-8. Interface
+7. Interface
